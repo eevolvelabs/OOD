@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- This is the XML representing the configuration for test cases. -->
+
+<!-- Each Test Case is represented by the respective dll. -->
+
+<!-- Hence for tag "dll", name=dll name and path=path where dlls are stored -->
+
+-<configFile>
+  <testName>TestTokenizer</testName> 
+  <date>25 February, 2012</date> 
+  -<dll name="TestTokenQuotedString.dll" path="..\thWorkdir\">  </dll> 
+  -<dll name="TestTokenizerWithComments.dll" path="..\thWorkdir\"> </dll>
+</configFile>

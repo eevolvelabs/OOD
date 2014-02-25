@@ -1,0 +1,37 @@
+﻿Build started 4/24/2012 6:11:10 PM.
+     1>Project "C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\BlockingQueue\BlockingQueue.vcxproj" on node 3 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\BlockingQueue.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\BlockingQueue.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D TEST_BLOCKINGQUEUE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt BlockingQueue.cpp ..\Threads\locks.cpp ..\Threads\Threads.cpp
+         Threads.cpp
+         locks.cpp
+         BlockingQueue.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\BlockingQueue.exe.embed.manifest.res" Debug\BlockingQueue_manifest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\Debug\BlockingQueue.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\BlockingQueue.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\Debug\BlockingQueue.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\Debug\BlockingQueue.lib" /MACHINE:X86 Debug\BlockingQueue.exe.embed.manifest.res
+         Debug\BlockingQueue.obj
+         Debug\locks.obj
+         Debug\Threads.obj
+       Manifest:
+         Deleting file "Debug\BlockingQueue.exe.embed.manifest".
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\BlockingQueue.exe.embed.manifest" /manifest Debug\BlockingQueue.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\BlockingQueue.exe.embed.manifest.res" Debug\BlockingQueue_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\Debug\BlockingQueue.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\BlockingQueue.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\Debug\BlockingQueue.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\Debug\BlockingQueue.lib" /MACHINE:X86 Debug\BlockingQueue.exe.embed.manifest.res
+         Debug\BlockingQueue.obj
+         Debug\locks.obj
+         Debug\Threads.obj
+         BlockingQueue.vcxproj -> C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\Debug\BlockingQueue.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\BlockingQueue.unsuccessfulbuild".
+         Touching "Debug\BlockingQueue.lastbuildstate".
+     1>Done Building Project "C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\BlockingQueue\BlockingQueue.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.86

@@ -1,0 +1,5 @@
+Test string : /*This is test string which is comment*/
+STATUS: TEST CASE PASSED
+TEST STRING :/*This is test string which is comment*/ which is comment and hence it is not token.
+Tokenizer output should be NULL string
+

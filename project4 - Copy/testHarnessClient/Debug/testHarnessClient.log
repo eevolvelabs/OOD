@@ -1,0 +1,35 @@
+﻿Build started 4/24/2012 6:13:30 PM.
+     1>Project "C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\testHarnessClient\testHarnessClient.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\testHarnessClient.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt testHarnessClient.cpp /clr:nostdlib 
+         testHarnessClient.cpp
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\dhavalmalaviya\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       CoreResGen:
+         "C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile Form1.resX,Debug\testHarnessClient.Form1.resources
+         Processing resource file "Form1.resX" into "Debug\testHarnessClient.Form1.resources".
+       ResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\Debug\testHarnessClient.exe" /INCREMENTAL /NOLOGO ..\debug\Communicator.lib wsock32.lib /ASSEMBLYRESOURCE:Debug\testHarnessClient.Form1.resources /MANIFEST /ManifestFile:"Debug\testHarnessClient.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\Debug\testHarnessClient.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\Base64.obj
+         Debug\AssemblyInfo.obj
+         Debug\stdafx.obj
+         Debug\testHarnessClient.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         testHarnessClient.vcxproj -> C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\Debug\testHarnessClient.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\Debug\testHarnessClient.exe;#1" /manifest Debug\testHarnessClient.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\testHarnessClient.unsuccessfulbuild".
+         Touching "Debug\testHarnessClient.lastbuildstate".
+     1>Done Building Project "C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\testHarnessClient\testHarnessClient.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.02

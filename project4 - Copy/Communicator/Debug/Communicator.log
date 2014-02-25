@@ -1,0 +1,40 @@
+﻿Build started 4/24/2012 6:10:48 PM.
+     1>Project "C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\Communicator\Communicator.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Communicator.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\Communicator.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D NO_TEST_COMM /D _UNICODE /D UNICODE /Gm- /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt ..\BlockingQueue\BlockingQueue.cpp ..\Message\Message.cpp ..\Message\XmlReader.cpp ..\Message\XmlWriter.cpp Comm.cpp ..\Threads\locks.cpp ..\Sockets\Sockets.cpp /clr:nostdlib 
+         BlockingQueue.cpp
+         Message.cpp
+         XmlReader.cpp
+         XmlWriter.cpp
+         Comm.cpp
+         locks.cpp
+         Sockets.cpp
+         Generating Code...
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D NO_TEST_COMM /D _UNICODE /D UNICODE /Gm- /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\dhavalmalaviya\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Lib:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\Debug\Communicator.lib" /NOLOGO Debug\BlockingQueue.obj
+         Debug\Message.obj
+         Debug\XmlReader.obj
+         Debug\XmlWriter.obj
+         Debug\Comm.obj
+         Debug\locks.obj
+         Debug\Sockets.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+     1>.NETFramework,Version=v4.0.AssemblyAttributes.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+     1>BlockingQueue.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+         Communicator.vcxproj -> C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\Debug\Communicator.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\Communicator.unsuccessfulbuild".
+         Touching "Debug\Communicator.lastbuildstate".
+     1>Done Building Project "C:\Users\dhavalmalaviya\Desktop\OOD\project4\project4\Communicator\Communicator.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.87

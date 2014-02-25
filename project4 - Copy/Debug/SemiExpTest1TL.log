@@ -1,0 +1,20 @@
+
+  testing SemiExp::merge(...)
+ -----------------------------
+Pushing one in to SemiExp
+
+Pushing two in to SemiExp
+
+Pushing three in to SemiExp
+
+Pushing four in to SemiExp
+
+Pushing five in to SemiExp
+
+
+Total Expression is =  one two three four five
+
+ Merging two and five token
+
+New Semi Exp is =  one twothreefour five
+STATUS: PASSED

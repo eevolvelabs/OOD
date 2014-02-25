@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BlockingQueue">
+</Property><Property Name="Solution File" Value="C:\Users\dhavalmalaviya\Desktop\OOD\CodesExamples\BlockingQueue\BlockingQueue.sln">
+</Property><Property Name="Date" Value="Tuesday, April 03, 2012">
+</Property><Property Name="Time" Value="20:35 PM">
+</Property></Properties><Event ErrorLevel="0" Project="BlockingQueue" Source="BlockingQueue.vcproj" Description="Converting project file 'C:\Users\dhavalmalaviya\Desktop\OOD\CodesExamples\BlockingQueue\BlockingQueue.vcproj'.">
+</Event><Event ErrorLevel="1" Project="BlockingQueue" Source="BlockingQueue.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="BlockingQueue" Source="BlockingQueue.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="BlockingQueue" Source="BlockingQueue.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="BlockingQueue" Source="BlockingQueue.vcproj" Description="Done converting to new project file 'C:\Users\dhavalmalaviya\Desktop\OOD\CodesExamples\BlockingQueue\BlockingQueue.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="BlockingQueue" Source="BlockingQueue.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BlockingQueue.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BlockingQueue.sln" Description="Converted">
+</Event></UpgradeLog>
